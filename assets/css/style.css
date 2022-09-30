@@ -56,11 +56,11 @@ header {
     color: #fff;
 }
 
-.list-inline-item:not(:last-child) {
-    margin-right: 0;
-}
+.list-in-line-item :not(:last-child) {
+    margin: 0;
+} 
 
-/* .menucontainer {
+.menucontainer {
     font-size: 0;
 }
 
@@ -68,5 +68,5 @@ header {
     font-size: 14px;
     padding: 0;
 }
- */
+ 
 
