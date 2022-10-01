@@ -56,17 +56,13 @@ header {
     color: #fff;
 }
 
-.list-in-line-item :not(:last-child) {
-    margin: 0;
-} 
-
-.menucontainer {
-    font-size: 0;
-}
+/* .menucontainer {
+    font-size: 50px;
+} */
 
 #nav li {
     font-size: 14px;
     padding: 0;
 }
- 
+
 
